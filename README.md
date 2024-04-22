@@ -31,13 +31,9 @@ This is the open-source repository for the CounselBot web-app.
 
 - Cloning the Repository: 
 
-        git clone https://github.com/Nivetha2312/Hacknight-CounselBot.git
-- Enter The directory: 
+        https://github.com/farhanahmed01/counsell-bot
 
-        cd Hacknight-CounselBot
-- Run the Python setup:
-        
-        python setup.py
+
 - Run the App:
 
         streamlit run app.py
